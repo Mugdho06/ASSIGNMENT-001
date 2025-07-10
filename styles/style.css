@@ -68,3 +68,29 @@
     cursor: pointer;
     color:black;
 }
+
+.action{
+    height: 380px;
+    max-width: 1140px;
+    /* border: 2px solid; */
+    /* background-color: aqua; */
+    display:flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px
+}
+.rightsection{
+   height: 328px;
+   width: 430px;
+   border-radius: 20px;
+}
+.leftsection button {
+    height: 30px;
+    width: 150px;
+    color:white;
+    background-color: #4E47FF;
+     border-radius: 8px;
+    border: none;
+   
+}
