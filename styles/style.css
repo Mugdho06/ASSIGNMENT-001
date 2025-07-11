@@ -151,6 +151,22 @@
     padding:30px 0;
 }
 /* body{
-    background-color: #ffffff74;
-    height: 1000px;
+    background-color: #f6eaea74;
+    height: 500px;
 } */
+ .leftpart{
+    height: 232px;
+    width: 528px;
+ }
+ .rightpart{
+    height: 300px;
+    width: 497px;
+ }
+ .information{
+     max-width: 1140px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+ }
